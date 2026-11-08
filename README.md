@@ -2,7 +2,8 @@
 
 **BITS Pilani Work Integrated Learning Programmes (WILP)**  
 **M.Tech (AIML) — Machine Learning (Assignment 2)**  
-**Student ID:** 2026AJ05386
+**Student ID:** 2026AJ05386  
+**GitHub Repository:** [https://github.com/2026aj05386/online-shoppers-intention-ml](https://github.com/2026aj05386/online-shoppers-intention-ml)
 
 ---
 
